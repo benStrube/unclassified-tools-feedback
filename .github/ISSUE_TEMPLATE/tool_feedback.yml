@@ -17,9 +17,9 @@ body:
         - CFF Academy
         - Fires Pubs Library
         - Visual Library
-        - Observed Fires Visual Guide
-        - Promotion Visual Guide
-        - Field Hygiene Visual Guide
+        - Observed Fires Visual Reference
+        - Promotion Visual Reference
+        - Field Hygiene Visual Reference
         - Infantry Leader Guide
         - Infantry Weapons Guide
         - Ranger School Prep
@@ -30,15 +30,15 @@ body:
         - Hand Receipt Guide
         - PRT Leader Prep
         - BLC Prep
-        - H2F Visual Guide
+        - H2F Visual Reference
         - Training Management Planner
         - Leader Book Guide
         - Orders Guide
-        - Counseling Visual Guide
+        - Counseling Visual Reference
         - NCOER Guide
         - Board Prep
         - Awards Guide
-        - Uniform Visual Guide
+        - Uniform Visual Reference
         - PMCS Helper
         - Offline Package
         - Unclassified Tools (landing page)
@@ -55,7 +55,7 @@ body:
     id: where
     attributes:
       label: Page, tab or section
-      placeholder: e.g. Visual Guide, figure 5-3, or a link to the page
+      placeholder: e.g. Visual Reference, figure 5-3, or a link to the page
   - type: textarea
     id: what
     attributes:

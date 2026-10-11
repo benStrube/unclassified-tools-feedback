@@ -15,9 +15,9 @@ Every tool has a standing thread (label [`issue-log`](https://github.com/benStru
 | CFF Academy | [#2](https://github.com/benStrube/unclassified-tools-feedback/issues/2) |
 | Fires Pubs Library | [#3](https://github.com/benStrube/unclassified-tools-feedback/issues/3) |
 | Visual Library | [#26](https://github.com/benStrube/unclassified-tools-feedback/issues/26) |
-| Observed Fires Visual Guide | [#27](https://github.com/benStrube/unclassified-tools-feedback/issues/27) |
-| Promotion Visual Guide | [#28](https://github.com/benStrube/unclassified-tools-feedback/issues/28) |
-| Field Hygiene Visual Guide | [#29](https://github.com/benStrube/unclassified-tools-feedback/issues/29) |
+| Observed Fires Visual Reference | [#27](https://github.com/benStrube/unclassified-tools-feedback/issues/27) |
+| Promotion Visual Reference | [#28](https://github.com/benStrube/unclassified-tools-feedback/issues/28) |
+| Field Hygiene Visual Reference | [#29](https://github.com/benStrube/unclassified-tools-feedback/issues/29) |
 | Infantry Leader Guide | [#4](https://github.com/benStrube/unclassified-tools-feedback/issues/4) |
 | Infantry Weapons Guide | [#18](https://github.com/benStrube/unclassified-tools-feedback/issues/18) |
 | Ranger School Prep | [#5](https://github.com/benStrube/unclassified-tools-feedback/issues/5) |
@@ -28,15 +28,15 @@ Every tool has a standing thread (label [`issue-log`](https://github.com/benStru
 | Hand Receipt Guide | [#20](https://github.com/benStrube/unclassified-tools-feedback/issues/20) |
 | PRT Leader Prep | [#10](https://github.com/benStrube/unclassified-tools-feedback/issues/10) |
 | BLC Prep | [#19](https://github.com/benStrube/unclassified-tools-feedback/issues/19) |
-| H2F Visual Guide | [#11](https://github.com/benStrube/unclassified-tools-feedback/issues/11) |
+| H2F Visual Reference | [#11](https://github.com/benStrube/unclassified-tools-feedback/issues/11) |
 | Training Management Planner | [#12](https://github.com/benStrube/unclassified-tools-feedback/issues/12) |
 | Leader Book Guide | [#24](https://github.com/benStrube/unclassified-tools-feedback/issues/24) |
 | Orders Guide | [#21](https://github.com/benStrube/unclassified-tools-feedback/issues/21) |
-| Counseling Visual Guide | [#17](https://github.com/benStrube/unclassified-tools-feedback/issues/17) |
+| Counseling Visual Reference | [#17](https://github.com/benStrube/unclassified-tools-feedback/issues/17) |
 | NCOER Guide | [#25](https://github.com/benStrube/unclassified-tools-feedback/issues/25) |
 | Board Prep | [#16](https://github.com/benStrube/unclassified-tools-feedback/issues/16) |
 | Awards Guide | [#15](https://github.com/benStrube/unclassified-tools-feedback/issues/15) |
-| Uniform Visual Guide | [#23](https://github.com/benStrube/unclassified-tools-feedback/issues/23) |
+| Uniform Visual Reference | [#23](https://github.com/benStrube/unclassified-tools-feedback/issues/23) |
 | PMCS Helper | [#13](https://github.com/benStrube/unclassified-tools-feedback/issues/13) |
 | Offline Package | [#22](https://github.com/benStrube/unclassified-tools-feedback/issues/22) |
 | Unclassified Tools (landing page) | [#14](https://github.com/benStrube/unclassified-tools-feedback/issues/14) |
