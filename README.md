@@ -21,6 +21,7 @@ Every tool has a standing thread (label [`issue-log`](https://github.com/benStru
 | Radio Visual Reference | [#36](https://github.com/benStrube/unclassified-tools-feedback/issues/36) |
 | Driver Program Visual Reference | [#37](https://github.com/benStrube/unclassified-tools-feedback/issues/37) |
 | Safety Program Visual Reference | [#38](https://github.com/benStrube/unclassified-tools-feedback/issues/38) |
+| Doctrine Primer Visual Reference | [#39](https://github.com/benStrube/unclassified-tools-feedback/issues/39) |
 | Squad Tactics Guide | [#30](https://github.com/benStrube/unclassified-tools-feedback/issues/30) |
 | Platoon Tactics Guide | [#31](https://github.com/benStrube/unclassified-tools-feedback/issues/31) |
 | Company Tactics Guide | [#32](https://github.com/benStrube/unclassified-tools-feedback/issues/32) |
