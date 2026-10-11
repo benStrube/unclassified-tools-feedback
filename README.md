@@ -18,7 +18,13 @@ Every tool has a standing thread (label [`issue-log`](https://github.com/benStru
 | Observed Fires Visual Reference | [#27](https://github.com/benStrube/unclassified-tools-feedback/issues/27) |
 | Promotion Visual Reference | [#28](https://github.com/benStrube/unclassified-tools-feedback/issues/28) |
 | Field Hygiene Visual Reference | [#29](https://github.com/benStrube/unclassified-tools-feedback/issues/29) |
-| Infantry Leader Guide | [#4](https://github.com/benStrube/unclassified-tools-feedback/issues/4) |
+| Radio Visual Reference | [#36](https://github.com/benStrube/unclassified-tools-feedback/issues/36) |
+| Driver Program Visual Reference | [#37](https://github.com/benStrube/unclassified-tools-feedback/issues/37) |
+| Safety Program Visual Reference | [#38](https://github.com/benStrube/unclassified-tools-feedback/issues/38) |
+| Squad Tactics Guide | [#30](https://github.com/benStrube/unclassified-tools-feedback/issues/30) |
+| Platoon Tactics Guide | [#31](https://github.com/benStrube/unclassified-tools-feedback/issues/31) |
+| Company Tactics Guide | [#32](https://github.com/benStrube/unclassified-tools-feedback/issues/32) |
+| Battalion Tactics Guide | [#33](https://github.com/benStrube/unclassified-tools-feedback/issues/33) |
 | Infantry Weapons Guide | [#18](https://github.com/benStrube/unclassified-tools-feedback/issues/18) |
 | Ranger School Prep | [#5](https://github.com/benStrube/unclassified-tools-feedback/issues/5) |
 | E3B Study Guide | [#6](https://github.com/benStrube/unclassified-tools-feedback/issues/6) |
@@ -26,6 +32,8 @@ Every tool has a standing thread (label [`issue-log`](https://github.com/benStru
 | Marksmanship and Qualification | [#8](https://github.com/benStrube/unclassified-tools-feedback/issues/8) |
 | CLS Guide | [#9](https://github.com/benStrube/unclassified-tools-feedback/issues/9) |
 | Hand Receipt Guide | [#20](https://github.com/benStrube/unclassified-tools-feedback/issues/20) |
+| Tactical Convoy Guide | [#34](https://github.com/benStrube/unclassified-tools-feedback/issues/34) |
+| Tactical Radio Guide | [#35](https://github.com/benStrube/unclassified-tools-feedback/issues/35) |
 | PRT Leader Prep | [#10](https://github.com/benStrube/unclassified-tools-feedback/issues/10) |
 | BLC Prep | [#19](https://github.com/benStrube/unclassified-tools-feedback/issues/19) |
 | H2F Visual Reference | [#11](https://github.com/benStrube/unclassified-tools-feedback/issues/11) |
@@ -40,6 +48,7 @@ Every tool has a standing thread (label [`issue-log`](https://github.com/benStru
 | PMCS Helper | [#13](https://github.com/benStrube/unclassified-tools-feedback/issues/13) |
 | Offline Package | [#22](https://github.com/benStrube/unclassified-tools-feedback/issues/22) |
 | Unclassified Tools (landing page) | [#14](https://github.com/benStrube/unclassified-tools-feedback/issues/14) |
+| Infantry Leader Guide (retired from Unclassified Tools 2026-10-11, split into the four tactics guides above) | [#4](https://github.com/benStrube/unclassified-tools-feedback/issues/4) (closed) |
 
 Nothing is sent automatically. Reports are public: please don't include personal or sensitive information, and never paste anything that isn't approved for public release.
 
