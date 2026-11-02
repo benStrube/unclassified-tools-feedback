@@ -47,6 +47,20 @@ Every tool has a standing thread (label [`issue-log`](https://github.com/benStru
 | Awards Guide | [#15](https://github.com/benStrube/unclassified-tools-feedback/issues/15) |
 | Uniform Visual Reference | [#23](https://github.com/benStrube/unclassified-tools-feedback/issues/23) |
 | PMCS Helper | [#13](https://github.com/benStrube/unclassified-tools-feedback/issues/13) |
+| Risk Assessment Builder | [#40](https://github.com/benStrube/unclassified-tools-feedback/issues/40) |
+| Army Memo Builder | [#41](https://github.com/benStrube/unclassified-tools-feedback/issues/41) |
+| SMCT Visual Reference | [#42](https://github.com/benStrube/unclassified-tools-feedback/issues/42) |
+| Drill and Ceremonies Visual Reference | [#43](https://github.com/benStrube/unclassified-tools-feedback/issues/43) |
+| Soldier CBRN Visual Reference | [#44](https://github.com/benStrube/unclassified-tools-feedback/issues/44) |
+| Soldier Support Resources | [#45](https://github.com/benStrube/unclassified-tools-feedback/issues/45) |
+| PCC/PCI Checklist Builder | [#46](https://github.com/benStrube/unclassified-tools-feedback/issues/46) |
+| ABCP Leader Guide | [#47](https://github.com/benStrube/unclassified-tools-feedback/issues/47) |
+| Duty Roster Guide | [#48](https://github.com/benStrube/unclassified-tools-feedback/issues/48) |
+| Foot March and Load Planner | [#49](https://github.com/benStrube/unclassified-tools-feedback/issues/49) |
+| Heat and Cold Injury Guide | [#50](https://github.com/benStrube/unclassified-tools-feedback/issues/50) |
+| Leader Actions Guide | [#51](https://github.com/benStrube/unclassified-tools-feedback/issues/51) |
+| Sponsorship and In-processing Guide | [#52](https://github.com/benStrube/unclassified-tools-feedback/issues/52) |
+| Leave and Pass Guide | [#53](https://github.com/benStrube/unclassified-tools-feedback/issues/53) |
 | Offline Package | [#22](https://github.com/benStrube/unclassified-tools-feedback/issues/22) |
 | Unclassified Tools (landing page) | [#14](https://github.com/benStrube/unclassified-tools-feedback/issues/14) |
 | Infantry Leader Guide (retired from Unclassified Tools 2026-10-11, split into the four tactics guides above) | [#4](https://github.com/benStrube/unclassified-tools-feedback/issues/4) (closed) |
