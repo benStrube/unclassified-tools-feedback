@@ -25,6 +25,7 @@ Every tool has a standing thread (label [`issue-log`](https://github.com/benStru
 | FA Certification and Qualification Visual Reference | [#54](https://github.com/benStrube/unclassified-tools-feedback/issues/54) |
 | Army Targeting Visual Reference | [#55](https://github.com/benStrube/unclassified-tools-feedback/issues/55) |
 | Planning and Orders Production Visual Reference | [#56](https://github.com/benStrube/unclassified-tools-feedback/issues/56) |
+| Commander and Staff Visual Reference | [#57](https://github.com/benStrube/unclassified-tools-feedback/issues/57) |
 | Squad Tactics Guide | [#30](https://github.com/benStrube/unclassified-tools-feedback/issues/30) |
 | Platoon Tactics Guide | [#31](https://github.com/benStrube/unclassified-tools-feedback/issues/31) |
 | Company Tactics Guide | [#32](https://github.com/benStrube/unclassified-tools-feedback/issues/32) |
